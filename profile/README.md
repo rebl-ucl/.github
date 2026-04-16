@@ -38,13 +38,13 @@ We build physical models (robots) that mirror key biological features. Our resea
 
 ### ⚙️ Trajectory Optimization & Control
 
-We apply optimal control and trajectory optimization to understand the "neuromechanics" of motion. By simulating contact dynamics, we refine how both animals and machines interact with complex terrains.
+We apply optimal control and trajectory optimisation to understand the "neuromechanics" of motion. By simulating contact dynamics, we refine how both animals and machines interact with complex terrains.
 
 ---
 
 ## 🎓 About Dr. Amir Patel
 
-Dr. Amir Patel is an Associate Professor of Robotics & AI at UCL. Formerly the founder of the African Robotics Unit (ARU), his work has been recognized by the Google Research Scholar Award and the MathWorks Research Award. His mission is to unlock the hidden aspects of animal behavior to create robots capable of navigating the real world with biological resilience.
+Dr. Amir Patel is an Associate Professor of Robotics & AI at UCL. Formerly the founder of the African Robotics Unit (ARU), his work has been recognised by the Google Research Scholar Award and the MathWorks Research Award. His mission is to unlock the hidden aspects of animal behaviour to create robots capable of navigating the real world with biological resilience.
 
 ---
 
